@@ -1,0 +1,5 @@
+{
+  "name": "DentalOS",
+  "description": "An internal web app to manage dental clinic operations including patients, appointments, treatments, invoices, and staff, with role-based access control.",
+  "requestFramePermissions": []
+}
